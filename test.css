@@ -21,6 +21,11 @@ header p {
     margin: 5px 0 15px;
 }
 
+nav a {
+    color: white;
+    text-decoration:none;
+}
+
 nav ul {
     display: flex;
     justify-content: center;
